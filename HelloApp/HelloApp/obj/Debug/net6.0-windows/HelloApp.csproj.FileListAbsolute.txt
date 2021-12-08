@@ -1,0 +1,17 @@
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\bin\Debug\net6.0-windows\HelloApp.exe
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\bin\Debug\net6.0-windows\HelloApp.deps.json
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\bin\Debug\net6.0-windows\HelloApp.runtimeconfig.json
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\bin\Debug\net6.0-windows\HelloApp.dll
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\bin\Debug\net6.0-windows\ref\HelloApp.dll
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\bin\Debug\net6.0-windows\HelloApp.pdb
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.AssemblyInfo.cs
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.dll
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\ref\HelloApp.dll
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.pdb
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.genruntimeconfig.cache
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.Form1.resources
+C:\Users\User1\Desktop\C#\HelloApp\HelloApp\obj\Debug\net6.0-windows\HelloApp.csproj.GenerateResource.cache
